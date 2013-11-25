@@ -1,0 +1,20 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+LEFT	printk.c	73;"	d	file:
+PLUS	printk.c	71;"	d	file:
+SIGN	printk.c	70;"	d	file:
+SMALL	printk.c	75;"	d	file:
+SPACE	printk.c	72;"	d	file:
+SPECIAL	printk.c	74;"	d	file:
+ZEROPAD	printk.c	69;"	d	file:
+do_div	printk.c	77;"	d	file:
+is_digit	printk.c	56;"	d	file:
+number	printk.c	/^static char *number(char *str, int num, int base, int size, int precision, int type)$/;"	f	file:
+printk	printk.c	/^void printk(const char *format, ...)$/;"	f
+printk_color	printk.c	/^void printk_color(real_color_t back, real_color_t fore, const char *format, ...)$/;"	f
+skip_atoi	printk.c	/^static int skip_atoi(const char **s)$/;"	f	file:
+vsprintf	printk.c	/^int vsprintf(char *buff, const char *format, va_list args)$/;"	f
